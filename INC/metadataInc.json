@@ -1,11 +1,11 @@
 {
-  "name": "Stalin Staking",
-  "description": "The Stalin Staking collection was created to deposit your IVS into a staking smart-contract! Do not sell, otherwise you will lose your deposit.",
+  "name": "Stalin Staking INC",
+  "description": "The Stalin Staking collection was created to deposit your INC into a staking smart-contract! Do not sell, otherwise you will lose your deposit.",
   "marketplace": "getgems.io",
   "social_links": [
     "https://t.me/StalinFoundation",
     "https://t.me/StalinFoundationChat"
   ],
-  "image": "https://github.com/StalinFoundation/Images/blob/main/StakingLogo.png?raw=true",
-  "cover_image": "https://github.com/StalinFoundation/Images/blob/main/StakingBanner.png?raw=true"
+  "image": "https://github.com/StalinFoundation/Images/blob/main/INC/StakingIncLogo.png?raw=true",
+  "cover_image": "https://github.com/StalinFoundation/Images/blob/main/INC/StakingIncBanner.png?raw=true"
 }
