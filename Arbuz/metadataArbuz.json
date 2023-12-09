@@ -1,10 +1,12 @@
 {
-  "name": "Stalin Staking INC",
-  "description": "The Stalin Staking collection was created to deposit your INC into a staking smart-contract! Do not sell, otherwise you will lose your deposit.",
+  "name": "Staking Arbuz",
+  "description": "The Staking collection was created to deposit your Arbuz into a staking smart-contract! Do not sell, otherwise you will lose your deposit.",
   "marketplace": "getgems.io",
   "social_links": [
     "https://t.me/StalinFoundation",
-    "https://t.me/StalinFoundationChat"
+    "https://t.me/tonarbuz",
+    "https://t.me/StalinFoundationChat,
+    "https://t.me/AtomicStarBot"
   ],
   "image": "https://github.com/StalinFoundation/Images/blob/main/INC/StakingIncLogo.png?raw=true",
   "cover_image": "https://github.com/StalinFoundation/Images/blob/main/INC/StakingIncBanner.png?raw=true"
